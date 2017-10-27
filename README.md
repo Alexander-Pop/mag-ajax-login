@@ -35,7 +35,7 @@ https://www.magentocommerce.com/magento-connect/ajax-popup-for-login-registratio
 - Add missing _getUrl to the controller
 - Add the popup to the my account link when customer is not logged in
 
-Description
+# Description
 This extension adds the possibility for frontend Magento users to log in, register and log out via an AJAX popup.
 
 AJAX is a combination of technologies that will let users updating parts of a your web store without reloading the entire page.
